@@ -45,9 +45,3 @@
 
 ---
 
-##  Project Structure
-- `DL_Fundamentals.ipynb`: থিওরিটিক্যাল প্রশ্ন ও উত্তর।
-- `Perceptron_Classification.py`: আইরিস ডাটাবেজের ওপর প্র্যাকটিক্যাল কোড।
-- `README.md`: প্রজেক্ট সামারি।
-
----
